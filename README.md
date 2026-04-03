@@ -83,7 +83,7 @@
 
 ## 🎒 Образование
 [<img src="/cert rus.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AinurValiullin/AinurValiullin/refs/heads/main/cert%20rus.png)
-[<img src="/Letter12.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter12.png)
+[<img src="/cert eng.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AinurValiullin/AinurValiullin/refs/heads/main/cert%20eng.png)
 
 <br>
 <br> 
