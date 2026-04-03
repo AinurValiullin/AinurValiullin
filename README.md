@@ -86,7 +86,7 @@
 [<img src="/cert eng.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AinurValiullin/AinurValiullin/refs/heads/main/cert%20eng.png)
 
 <br>
-<br> 
+
 ## 🤝 Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:aiva100392@yandex.ru)
 
