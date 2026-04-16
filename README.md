@@ -19,9 +19,8 @@
 - 💻 Python / Pytest / Requests / python-dotenv
 
 ## 📊 Статистика
-
-![](https://github-readme-stats.vercel.app/api?hide_rank=true&hide=issues,contribs&show_icons=true&locale=en&langs_count=8&card_width=320&username=AinurValiullin)
-![](https://github-readme-stats.vercel.app/api/top-langs/?layout=donut&langs_count=6&hide_progress=true&username=AinurValiullin)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AinurValiullin&theme=github)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AinurValiullin&layout=donut&langs_count=6)
 
 <!-- Выбор темы ↑↑: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md --> 
 <!-- Настройка отображения ↑↑: https://github.com/anuraghazra/github-readme-stats/ --> 
