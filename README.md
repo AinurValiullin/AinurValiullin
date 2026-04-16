@@ -9,10 +9,11 @@
 
 - 🧪 Manual testing  
 - 🔗 API testing (Postman)  
-- 🐞 Bug reporting  
+- 🐞 Bug reporting
 - 🗄 SQL (basic)  
 - ⚙️ Git / GitHub  
-- 🌐 HTTP / REST API  
+- 🌐 HTTP / REST API
+- 💻 Python / Pytest / Requests / python-dotenv
 
 ## 📊 Статистика
 
