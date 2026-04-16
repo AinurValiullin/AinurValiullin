@@ -53,8 +53,12 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/cert rus.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AinurValiullin/AinurValiullin/refs/heads/main/cert%20rus.png)
-[<img src="/cert eng.png" width="280px" hspace="10px" alt="Сертификат">](https://raw.githubusercontent.com/AinurValiullin/AinurValiullin/refs/heads/main/cert%20eng.png)
+[<img src="/middle_cert_rus.png" width="280px" hspace="10px" alt="Сертификат Middle">](https://github.com/AinurValiullin/AinurValiullin/blob/main/middle_cert_rus.png)
+[<img src="/middle_cert_eng.png" width="280px" hspace="10px" alt="Сертификат Middle">](https://github.com/AinurValiullin/AinurValiullin/blob/main/middle_cert_eng.png)
+[<img src="/junior_cert_rus.png" width="280px" hspace="10px" alt="Сертификат Junior">](https://github.com/AinurValiullin/AinurValiullin/blob/main/junior_cert_rus.png)
+[<img src="/junior_cert_eng.png" width="280px" hspace="10px" alt="Сертификат Junior">](https://github.com/AinurValiullin/AinurValiullin/blob/main/junior_cert_eng.png)
+[<img src="/intern_cert_rus_auto.ae.png" width="280px" hspace="10px" alt="Сертификат Intern">](https://github.com/AinurValiullin/AinurValiullin/blob/main/intern_cert_rus_auto.ae.png)
+[<img src="/intern_cert_eng_auto.ae.png" width="280px" hspace="10px" alt="Сертификат Intern">](https://github.com/AinurValiullin/AinurValiullin/blob/main/intern_cert_eng_auto.ae.png)
 
 <br>
 
